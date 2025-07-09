@@ -8,7 +8,7 @@ to learn and solve problems!
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey through computer science has given me a strong interest in cybersecurity, and I am eager to learn and explore the wonders of this field, specifically aiming for entry level roles such as a SOC Analyst, Junior Penetration Tester, and a Security Analyst
+My journey through computer science has given me a strong interest in cybersecurity, and I am eager to learn and explore the wonders of this field, specifically aiming for entry level roles such as a SOC Analyst, Junior Penetration Tester, and a Security Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
