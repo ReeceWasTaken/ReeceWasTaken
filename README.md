@@ -1,5 +1,5 @@
 # Hello, I'm Reece!
-<a href="https://www.linkedin.com/in/reece-ludlow/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/reece-ludlow/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" /></a>
 
 
 I am a senior college student at the Univeristy of North Georgia studying in cybersecurity. I have a strong passion
